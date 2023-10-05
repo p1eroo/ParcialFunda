@@ -1,0 +1,46 @@
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.exe
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.deps.json
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.runtimeconfig.json
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.dll
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.pdb
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formAgregarDirectorApeli.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formDirector.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formPelicula.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formPrincipal.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReport1.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReport2.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReport3.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReportPrincipal.resources
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.csproj.GenerateResource.cache
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.AssemblyInfoInputs.cache
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.AssemblyInfo.cs
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.csproj.CoreCompileInputs.cache
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.dll
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\refint\APDAYC_Ejercicio1_EP202302.dll
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.pdb
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.genruntimeconfig.cache
+E:\UPC-2023-2\Fundamenots de sistemas\Proyectos Visual\EJEMPLOS EXAMENES\EXAMEN PARCIAL\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\ref\APDAYC_Ejercicio1_EP202302.dll
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.exe
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.deps.json
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.runtimeconfig.json
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.dll
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\bin\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.pdb
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formAgregarDirectorApeli.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formDirector.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formPelicula.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formPrincipal.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReport1.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReport2.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReport3.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.formReportPrincipal.resources
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.csproj.GenerateResource.cache
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.AssemblyInfoInputs.cache
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.AssemblyInfo.cs
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.csproj.CoreCompileInputs.cache
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.dll
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\refint\APDAYC_Ejercicio1_EP202302.dll
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.pdb
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\APDAYC_Ejercicio1_EP202302.genruntimeconfig.cache
+C:\Users\JACK\Desktop\APDAYC_Ejercicio1_EP202302\APDAYC_Ejercicio1_EP202302\obj\Debug\net6.0-windows\ref\APDAYC_Ejercicio1_EP202302.dll
